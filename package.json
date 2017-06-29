@@ -1,0 +1,11 @@
+{
+  "name": "jquery-paginate",
+  "version": "1.0.0",
+  "description": "simple pagination qith jquery",
+  "main": "index.js",
+  "repository": "git@github.com:vmpublishing/jquery-paginate.git",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=2.1.4"
+  }
+}
